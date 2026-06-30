@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0226/WYG/v1/juan/20
+seq: 20
+front:
+  text: 闗學編凡例一是編専為理學輯故歴代名臣不敢泛入一理學如秦子南燕子思壤駟子從石作子明俱孔門
+  hash: sha256:86596aeefe816a61ff92c903b6a909a811df5f6bb35dade1a648c580fba6d5f8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0226_WYG_020-1a, image: WYG1293/WYG1293-0326c.png}
+body:
+  text: 高弟第事蹟多不詳故另列小傳于前而編中㫁自横渠張子始一次序各以時代庶古今不相混淆一宋元諸儒有史傳諸書可考不佞稍為纂次十五仍舊至國朝諸儒中多僣妄論著文之工拙不卹也一國朝諸儒特録其所知盖棺論定者其所未知者姑闕之以俟
+  hash: sha256:0e8d0320e76e89374982804044771de3ceef7d71e44b30abe451dc80c34405c9
+metadata:
+  title: 少墟集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:26:50.396355'
+  juan_title: 闗學編凡例
+  source:
+    repository: kanripo
+    path: KR4e0226/KR4e0226_020.txt
+hash: sha256:0ccb3198965562a06e1dd6d4c3664405031f46d6e4290ba181758ae072a95fa5

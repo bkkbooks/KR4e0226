@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0226/WYG/v1/juan/22
+seq: 22
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0226_WYG_022-1a, image: WYG1293/WYG1293-0328a.png}
+body:
+  text: 少墟集巻十九明馮從吾撰闗學編目録巻一宋横渠張先生載天祺張先生戩進伯吕先生大忠和叔吕先生大鈞與叔吕先生大臨季明蘇先生昞巽之范先生育師聖侯先生仲良天水劉先生愿巻二金君美楊先生天徳元紫陽楊先生奐鑑山宋氏規附元甫楊先生恭懿維斗蕭先生㪺伯充吕氏􅀢附寛甫同先生恕從善韓先生擇伯仁侯先生均士安第五先生居仁恱古程先生瑁巻三明容思叚先生堅黙齋張先生傑小泉周先生蕙大器張先生鼎抑之張氏銳附介菴李先生錦仲白李氏錦附思菴薛先生敬之平川王先生承裕巻四明涇野吕先生柟谿田馬先生理苑洛韓先生邦奇瑞泉南先生大吉雲林尚氏班爵附斛山楊先生爵愧軒吕先生潜石谷張氏節附正立李氏挺䝉泉郭先生郛秦闗王先生之士
+  hash: sha256:dcfeae20bdbb90e25e65a79e55dec7d5faaf402faa538e720be4449d193b58a0
+metadata:
+  title: 少墟集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:26:50.396355'
+  juan_title: 闗學編目録
+  source:
+    repository: kanripo
+    path: KR4e0226/KR4e0226_022.txt
+hash: sha256:c59965abefe6b7789253bca7dd81f128576ffc2f3a31c841e4111b5c396cd86e
